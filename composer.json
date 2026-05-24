@@ -1,0 +1,14 @@
+{
+    "name": "abelohost/blog",
+    "description": "Blog test assignment",
+    "require": {
+        "php": ">=8.1",
+        "smarty/smarty": "^4.0",
+      "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+vendor/
+storage/
+.env
+*.log
+.DS_Store
+.idea/
+.vscode/
+public/images/uploads/*
+!public/images/uploads/.gitkeep
